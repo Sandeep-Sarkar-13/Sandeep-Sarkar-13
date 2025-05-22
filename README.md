@@ -51,7 +51,7 @@
 
 ### 🤝 Connect With Me
 
-- 📬 [Email Me](mailto:sandeeps0774@gmail.com)  
+- 📬 [sandeeps0774@gmail.com](mailto:sandeeps0774@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sandeep-sarkar-9a2424262/)  
 
 ---
