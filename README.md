@@ -1,13 +1,12 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Sandeep-Sarkar-13/Sandeep-Sarkar-13/assets/79896433/fe6a3983-5289-42ad-a502-861a72f48ddf" alt="Banner" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjA2ODd1bHVnMjM5bmNkaWtobXVubXpsbDZwbzA5MjM1am9heHBqZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey 👋, I'm <span style="color:#f72585">Sandeep Sarkar</span></h1>
 
-<p align="center">
-  <a href="https://github.com/Sandeep-Sarkar-13"><img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=flat&logo=github" /></a>
+<p align="center">c
   <a href="mailto:sandeeps0774@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=flat&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/sandeep-sarkar-9a2424262/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=flat&logo=linkedin" /></a>
 </p>
