@@ -6,7 +6,7 @@
 
 <h1 align="center">Hey 👋, I'm <span style="color:#f72585">Sandeep Sarkar</span></h1>
 
-<p align="center">c
+<p align="center">
   <a href="mailto:sandeeps0774@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=flat&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/sandeep-sarkar-9a2424262/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=flat&logo=linkedin" /></a>
 </p>
@@ -42,10 +42,10 @@
 | 🥇 Award | 📌 Event |
 |---------|----------|
 | 🏅 **Winner** | Smart Bengal Hackathon (JAWAAN) |
+| 🏆 **Winner** | KrackHack 2.0 – Deep Learning Hackathon |
 | 🥈 **1st Runner-Up** | EXCAVATE @ IIT Kharagpur |
 | 🥉 **2nd Runner-Up** | Code Relay 3.0 @ IIT Bhubaneswar |
 | 🔥 **Top Finalist** | UDGAM, IIT Guwahati Disrupt |
-| 🏆 **Winner** | KrackHack 2.0 – Deep Learning Hackathon |
 
 ---
 
@@ -53,8 +53,6 @@
 
 - 📬 [Email Me](mailto:sandeeps0774@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sandeep-sarkar-9a2424262/)  
-- 📊 [Portfolio Projects](https://devfolio.co/projects/cruisectrl-3a5b)  
-- 📽️ [Watch Project Demo](https://youtu.be/K7y0EECBgIk?si=IgRmSptOubl1nmye)
 
 ---
 
