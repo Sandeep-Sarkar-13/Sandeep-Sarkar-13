@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3l3ZmI1dXhlOWhodzVndjFqZWF0ZWdxamJwYXBydG8wd3d2MmIwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" alt="Banner" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3l3ZmI1dXhlOWhodzVndjFqZWF0ZWdxamJwYXBydG8wd3d2MmIwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" alt="Banner" width="70%" />
 </p>
 
 <h1 align="center">Hey 👋, I'm <span style="color:#f72585">Sandeep Sarkar</span></h1>
