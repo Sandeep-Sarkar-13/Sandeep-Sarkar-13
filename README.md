@@ -1,48 +1,91 @@
-<h1 align="center">Hi there, I'm Sandeep Sarkar 👋</h1>
+
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Enthusiast;Machine+Learning+Innovator;Full-Stack+Developer;Hackathon+Winner;Open+Source+Contributor&center=true&width=500&height=45">
+  <img src="https://github.com/Sandeep-Sarkar-13/Sandeep-Sarkar-13/assets/79896433/fe6a3983-5289-42ad-a502-861a72f48ddf" alt="Banner" width="100%" />
 </p>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+<h1 align="center">Hey 👋, I'm <span style="color:#f72585">Sandeep Sarkar</span></h1>
 
-### 🚀 About Me
-
-🎓 CSE (Data Science) undergrad at Heritage Institute of Technology  
-🏆 National Hackathon Winner | ML & AI Researcher  
-🧠 Passionate about AI for social impact, especially in defense & agriculture  
-🛠️ Building solutions using YOLOv8, BERT, UNet, Power BI, and more  
-🌐 Exploring Earth Observation, Smart Cities & Smart Farming  
-📈 Performance Analyst Intern @ Stepout.AI
+<p align="center">
+  <a href="https://github.com/Sandeep-Sarkar-13"><img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=flat&logo=github" /></a>
+  <a href="mailto:sandeeps0774@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/sandeep-sarkar-9a2424262/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=flat&logo=linkedin" /></a>
+</p>
 
 ---
 
-### 🧠 Current Projects
-- **JAWAAN** – Defense-grade AI system with drones, VR, BERT & sound analytics  
-- **CruiseCTRL** – AI-powered traffic analysis using YOLOv8, UNet, and transformers  
-- **CHEMSPARK** – ML model to predict band gap for advanced materials  
-- **FARMEASY** – Satellite-driven AI system for smart agriculture  
-- **SCHOLARS** – ML portal predicting scholarship eligibility with XGBoost
+### 🧠 About Me
+
+```yaml
+🎓 CSE (Data Science) @ Heritage Institute of Technology  
+🏆 Hackathon Winner | AI/ML Researcher  
+🛠️ Currently: Performance Analyst Intern @ Stepout.AI  
+🧠 Interests: NLP, CV, Earth Observation, Smart Tech  
+🌱 Mission: Use AI for defense, agriculture & social good  
+```
+
+<img align="right" width="300" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />
 
 ---
 
-### 🥇 Highlights
-🏅 **Winner** – Smart Bengal Hackathon 2025  
-🥈 **1st Runner-Up** – EXCAVATE @ IIT Kharagpur (Data Analysis)  
-🥉 **2nd Runner-Up** – Code Relay 3.0 @ IIT Bhubaneswar  
-🏆 **Top 11 Finalist** – UDGAM, IIT Guwahati Disrupt 2025  
-🥇 **Winner** – KrackHack 2.0 for CruiseCTRL (Deep Learning Hackathon)
+### 🚀 Current Projects
+
+- 🔥 **JAWAAN** – Defense-grade AI system with drones, VR, BERT & sound analytics  
+- 🚦 **CruiseCTRL** – AI-powered traffic analysis using YOLOv8, UNet, and transformers  
+- 🧪 **CHEMSPARK** – ML model to predict band gap for advanced materials  
+- 🌾 **FARMEASY** – Satellite-driven AI system for smart agriculture  
+- 🎓 **SCHOLARS** – ML portal predicting scholarship eligibility with XGBoost
 
 ---
 
-### 🌟 Connect with Me
+### 🏆 Highlights
 
-📫 [Email Me](mailto:sandeeps0774@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sandeep-sarkar-9a2424262/)  
-💻 [Portfolio Projects](https://devfolio.co/projects/cruisectrl-3a5b)  
-📸 [Watch My Project Demo](https://youtu.be/K7y0EECBgIk?si=IgRmSptOubl1nmye)  
+| 🥇 Award | 📌 Event |
+|---------|----------|
+| 🏅 **Winner** | Smart Bengal Hackathon (JAWAAN) |
+| 🥈 **1st Runner-Up** | EXCAVATE @ IIT Kharagpur |
+| 🥉 **2nd Runner-Up** | Code Relay 3.0 @ IIT Bhubaneswar |
+| 🔥 **Top Finalist** | UDGAM, IIT Guwahati Disrupt |
+| 🏆 **Winner** | KrackHack 2.0 – Deep Learning Hackathon |
 
 ---
 
-### ⚡ Tech Stack
-```python
-Python | SQL | R | Flask | Django | YOLOv8 | UNet | TensorFlow | Power BI | MongoDB | HTML | CSS | JavaScript | OpenCV | BERT | FastAPI | AWS
+### 🤝 Connect With Me
+
+- 📬 [Email Me](mailto:sandeeps0774@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sandeep-sarkar-9a2424262/)  
+- 📊 [Portfolio Projects](https://devfolio.co/projects/cruisectrl-3a5b)  
+- 📽️ [Watch Project Demo](https://youtu.be/K7y0EECBgIk?si=IgRmSptOubl1nmye)
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,django,tensorflow,pytorch,fastapi,html,css,js,mysql,mongodb,linux,git,aws,powerbi,opencv" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep-Sarkar-13&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep-Sarkar-13&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeep-Sarkar-13&theme=react-dark&hide_border=true" width="90%" />
+</p>
+
+---
+
+### 🧩 Fun Fact
+
+> ⚡ *My AI models can detect threats from sound, identify dead trees via drone, analyze roads, and even predict your scholarship eligibility.*
+
+---
+
+<p align="center">
+  <b>✨ Thanks for visiting! Drop a ⭐ on any project you love. Let’s build the future together.</b>
+</p>
